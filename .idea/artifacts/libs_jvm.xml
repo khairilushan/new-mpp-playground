@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="libs-jvm">
+    <output-path>$PROJECT_DIR$/libs/build/libs</output-path>
+    <root id="archive" name="libs-jvm.jar">
+      <element id="module-output" name="libs_jvmMain" />
+    </root>
+  </artifact>
+</component>

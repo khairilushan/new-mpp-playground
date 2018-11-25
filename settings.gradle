@@ -1,0 +1,10 @@
+rootProject.name = 'new-mpp-playground'
+
+enableFeaturePreview('GRADLE_METADATA')
+
+include 'libs'
+
+if (INCLUDE_ANDROID == "true") {
+    include 'apps', 'apps:androidApp'
+}
+
