@@ -2,7 +2,7 @@
   <artifact type="jar" name="libs-jvm">
     <output-path>$PROJECT_DIR$/libs/build/libs</output-path>
     <root id="archive" name="libs-jvm.jar">
-      <element id="module-output" name="libs_jvmMain" />
+      <element id="module-output" name="new-mpp-playground.libs.jvmMain" />
     </root>
   </artifact>
 </component>
